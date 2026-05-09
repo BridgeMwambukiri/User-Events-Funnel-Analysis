@@ -47,6 +47,8 @@ Revenue analysis found that the Average Order Value (AOV) was approximately $115
 
 Funnel Conversion Analysis
 The funnel analysis measured how users progressed through each stage of the customer journey.
+<img width="449" height="283" alt="image" src="https://github.com/user-attachments/assets/b149cfd9-86a5-4061-ab5c-d451e8895897" />
+
 Key findings:
 
 Strong checkout-to-purchase conversion rates (~80%+)
